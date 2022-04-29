@@ -16,7 +16,9 @@
     <footer>
         <div class="wrap" id="slide1-footer">
             <div>
-                <img class="alignleft animate__animated animate__bounceInLeft animate__delay-1s" id="slide1-astro" src="./img/introducao/astronauta.png" alt="astronauta" style="width: 11cm; height: 11cm;">
+                <img class="alignleft animate__animated animate__bounceInLeft animate__delay-1s" 
+                id="slide1-astro" src="./img/introducao/astronauta.png" alt="astronauta" 
+                style="width: 11cm; height: 11cm; padding-top: 35px">
             </div>
         </div>
     </footer>

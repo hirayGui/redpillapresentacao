@@ -4,13 +4,12 @@
 
     <header>
         <div class="wrap" id="slide2-header">
-            <h2 class="alignleft animate__animated animate__fadeInTopLeft" style="text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
+            <h2 class="alignleft animate__animated animate__fadeIn" style="text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);">
                 <b style="color: gray;">SOMOS A</b><br>
                 <b style="color: red; font-size: 80px;">RED</b><b style="color: black; font-size: 80px;">PILL</b>
             </h2>
 
-            <p class="alignright animate__animated animate__fadeInTopRight"
-            style="color: black; text-align:right; font-size: 30px" id="slide1-txt"><b style="color: red;">RED</b>PILL</p>
+            <p class="alignright animate__animated animate__fadeIn" style="color: black; text-align:right; font-size: 22px" id="slide1-txt"><b style="color: red;">RED</b>PILL</p>
         </div>
     </header>
 
@@ -65,7 +64,7 @@
             <div>
                 <img class="alignleft animate__animated animate__fadeInBottomLeft" 
                 id="slide2-astro" src="./img/tela2/astronauta.png" alt="astronauta" 
-                style="width: 8cm; height: 8cm;">
+                style="width: 10cm; height: 10cm; padding-right: 25px">
             </div>
         </div>
     </footer>

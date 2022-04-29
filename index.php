@@ -26,22 +26,22 @@
 <body>
     <main role="main">
         <article id="webslides" class="horizontal">
-            <!--Slide 1-->
+            <!--Slide 1 †-->
             <?php
             require './slides/slide1.php';
             ?>
 
-            <!--Slide 2-->
+            <!--Slide 2 †-->
             <?php
             require './slides/slide2.php';
             ?>
 
-            <!--Slide 3-->
+            <!--Slide 3 †-->
             <?php
             require './slides/slide3.php';
             ?>
 
-            <!--Slide 4-->
+            <!--Slide 4 †-->
             <?php
             require './slides/slide4.php';
             ?>
