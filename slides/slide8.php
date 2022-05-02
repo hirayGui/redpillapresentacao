@@ -4,7 +4,8 @@
 
     <header>
         <div class="wrap" id="slide8-header">
-            <h2 class="aligncenter animate__animated animate__fadeIn" style="text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); color: white; font-size: 36px">
+            <h2 class="aligncenter animate__animated animate__fadeIn" 
+            style="text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); color: white; font-size: 36px">
                 <b>Etapas do projeto de comunicação estratégica</b>
             </h2>
         </div>
