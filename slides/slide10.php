@@ -12,7 +12,7 @@
     </header>
 
     <footer>
-        <div class="wrap" id="slide10-footer">
+        <div class="wrap animate__animated animate__fadeInBottomLeft" id="slide10-footer">
             <span><img src="./img/tela10/astronauta.png" alt="" style="height: 5.5cm; width: 5.5cm;"></span>
         </div>
     </footer>

@@ -4,15 +4,15 @@
 
     <main>
         <div class="wrap">
-            <h2 class="alignright" style="text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); color: black; 
-            font-size: 55px; text-align: right; ">
+            <h3 class="alignright" style="text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); color: black; 
+            font-size: 40px; text-align: right; ">
             Algumas destas,<br>
             nos deram<br>
             A missão de<br>
             <b>criar sua</b><br>
             identidade<br>
             <b>visual</b><br>
-            </h2>
+            </h3>
         </div>
     </main>
 
